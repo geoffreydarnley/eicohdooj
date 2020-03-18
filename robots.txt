@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iebaisauv.wfa3.art/sitemap.xml
